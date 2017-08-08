@@ -6,6 +6,7 @@ We're gonna identify the key characteristics of Instagrams stars.
 
 ### What's this data?
 _data/data.xlsx_
+
 Instagram crawling data for another project...
 
 ### What now?
