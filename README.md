@@ -1,5 +1,5 @@
 # its-r
-2017 Silicon Valley Data Science Capstone R Lesson
+First take at data science using R!
 
 # Project: Instagram Stars
 We're gonna identify the key characteristics of Instagrams stars!
