@@ -2,7 +2,7 @@
 2017 Silicon Valley Data Science Capstone R Lesson
 
 # Project: Instagram Stars
-We're gonna identify the key characteristics of Instagrams stars.
+We're gonna identify the key characteristics of Instagrams stars!
 
 ### What's this data?
 _data/data.xlsx_
